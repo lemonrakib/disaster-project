@@ -4,7 +4,7 @@ body {
 }
 
 .main-header-banner {
-    background-image: url("picture/bannar-pic/banner.jpg");
+    background-image: url("./picture/banner.jpg");
     background-size: cover;
 }
 
