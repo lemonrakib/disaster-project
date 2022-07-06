@@ -4,12 +4,12 @@ body {
 }
 
 .main-header-banner {
-    background-image: url(picture/Banner-pic/banner.jpg);
+    background-image: url("picture/Banner-pic/banner.jpg");
     background-size: cover;
 }
 
 .banner-container {
-    color: rebeccapurple;
+    color: white;
     text-align: center;
     padding-top: 600px;
     padding-bottom: 300px;
